@@ -1,0 +1,203 @@
+body {
+	display: flex;
+	flex-direction: column;
+	background-color: #F9F9F9;
+	margin: 0px;
+}
+
+.head {
+	display: flex;
+	justify-content: space-between;
+	flex-flow: row nowrap;
+	border-bottom-color: #EEEEEE;
+	border-bottom: 3px solid darkgrey;
+	background-color: #F9F9F9;
+	margin-top: 25px;
+	
+}
+
+.flex-start {
+	align-self: flex-start;
+}
+
+.flex-end {
+	float: right;
+}
+
+.header-item {
+	align-content: center;
+}
+
+#logo {
+	width: 230px;
+	padding-bottom: 15px;
+}
+
+.fa-th {
+	margin-top: 45px;
+}
+
+.navbar {
+	display: flex;
+	margin-top: 28px;
+	width: 500px;
+	align-content: right;
+}
+
+.form-inline {
+	width: 600px;
+	justify-content: right;
+}
+
+.form-control {
+	width: 650px;
+	text-align: center;
+}
+
+.fa-user-circle {
+	margin-top: 45px;
+	margin-left: 45px;
+}
+
+.fa-angle-down {
+	margin-top: 47px;
+}
+
+.fa-bell-o {
+	margin-top: 45px;
+}
+
+.fa-shopping-cart {
+	margin-top: 45px;
+}
+
+.fa-align-left {
+	display: flex;
+	color: #9FD943;
+	margin-top: 45px;
+	margin-right: 50px;
+}
+
+.product {
+	background-color: #F9F9F9;
+	margin: 0px;
+}
+
+h3 {
+	margin-left: 50px;
+}
+
+p {
+	margin-left: 50px;
+}
+
+.progress-bar {
+	width: 200px;
+	height: 5px;
+	border-radius: 5px;
+	text-align: right;
+	text-decoration-color: black;
+}
+
+#green {
+	color: green;
+}
+
+.fa-user-circle {
+	margin-left: 50px;
+}
+
+img {
+	margin-left: 50px;
+}
+
+.fa-tag {
+	margin-left: 50px;
+}
+
+.fa-eye {
+	margin-left: 50px;
+}
+
+#circle-one {
+	color: #FFFFFF;
+}
+
+#circle-two {
+	color: #555555;
+}
+
+#circle-three {
+	color: #3784CA;
+}
+
+#circle-four {
+	color: #D34971;
+}
+
+#circle-five {
+	color: #F0AB5D;
+}
+
+#circle-six {
+	color: #00C1BD;
+}
+
+#buy-me {
+	text-align: center;
+}
+
+.fa-angle-up {
+	margin-left: 50px;
+	color: blue;
+}
+
+#top {
+	color: blue;
+}
+
+#small-logo {
+	width: 70px;
+	margin-bottom: 10px;
+}
+
+#learn {
+	color: blue;
+}
+
+.foot {
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+	background-color: #000000;
+	color: white;
+}
+
+.bottom {
+	display: flex;
+	justify-content: center;
+	flex-flow: column wrap;
+	margin: auto;
+}
+
+.center {
+	display: inline-flex;
+	justify-content: center;
+}
+
+#bottom-menu{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	margin: 0px 250px;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
